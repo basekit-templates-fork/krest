@@ -1,7 +1,7 @@
 {
-	"name":"Unknown",
-	"thumbnail":"unknown.png",
-	"screenshot":"unknown.png",
+	"name":"Krest",
+	"thumbnail":"krest.png",
+	"screenshot":"krest.png",
     "templateType":"standard",
     "tags": { "en": ["business", "busy", "light", "social", "contrast", "space"] },
     "pageTypes":["home"],
@@ -9,7 +9,7 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#01b4f0",
+            "color2":"#F05301",
             "color3":"#ffe777",
             "color4":"#000000",
             "color5":"#888888",
@@ -49,9 +49,9 @@
         "images/train-station.jpg"
     ],
     "fontSwatch": {
-       "title": "Merriweather / Source Sans Pro / Cabin",
+       "title": "Source Sans Pro",
         "font1": {
-            "font-family": "\"Bree Serif\", \"Lato\", Helvetica",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "25px",
             "font-weight": "300",
             "line-height": "inherit",
@@ -59,7 +59,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Cabin\", \"Oswald\", Arial, sans-serif",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "25px",
             "font-weight": "700",
             "line-height": "32px",
@@ -83,7 +83,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "17px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -91,7 +91,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "26px",
             "font-weight": "300",
             "line-height": "46px",
@@ -102,7 +102,7 @@
             "background-color-hover": "@color-swatch2"
          },
         "font7": {
-            "font-family": "\"Cabin\", \"Oswald\", Arial, sans-serif",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "inherit",
             "line-height": "24px",
@@ -112,7 +112,7 @@
             "background-color-hover": "@color-swatch1"
         },
         "font8": {
-            "font-family": "\"Bree Serif\", \"Lato\", Helvetica",
+            "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "34px",
             "font-weight": "inherit",
             "line-height": "36px",
