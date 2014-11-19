@@ -537,7 +537,7 @@ button.btn,
 .widget.gallery {
 	margin: 20px 0 20px -0.5%;
 	ul li {
-		@media @tablet {
+		@media (max-width: 850px) {
 			width: 50%;
 			padding-bottom: 50%;
 		}
@@ -705,7 +705,7 @@ button.btn,
 	margin-bottom: 10px;
 	a {
 		padding: 6px 10px;
-		box-shadow: 2px 2px 0 #ffffff, 4px 4px 0 #01b4f0;
+		box-shadow: 0 8px 0 @color-swatch1, 0 16px 0 @color-swatch1;
 	}
 }
 
@@ -784,8 +784,13 @@ button.btn,
 	color: @color-swatch2;
 }
 
-.blog-post-tag a:after {
-	content: ',';
+.blog-post-tag a {
+	&:after {
+		content: ",";
+	}
+	&:last-of-type:after {
+		content: "";
+	}
 }
 
 // Sharing Buttons
