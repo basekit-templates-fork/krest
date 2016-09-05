@@ -1,64 +1,74 @@
 {
-	"name":"Krest",
-	"thumbnail":"krest.png",
-	"screenshot":"krest.png",
-    "templateType":"standard",
-    "tags": { "en": ["business", "busy", "light", "social", "contrast", "space"] },
-    "pageTypes":["home"],
-    "colorSwatches":
-    {
+    "name": "Krest",
+    "thumbnail": "krest.png",
+    "screenshot": "krest-screenshot.jpg",
+    "templateType": "standard",
+    "tags": {
+        "en": [
+            "business",
+            "busy",
+            "light",
+            "social",
+            "contrast",
+            "space"
+        ]
+    },
+    "pageTypes": [
+        "home"
+    ],
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#F05301",
-            "color3":"#ffe777",
-            "color4":"#000000",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#F05301",
+            "color3": "#ffe777",
+            "color4": "#000000",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#fafafa"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#90dc75",
-            "color3":"#ffb477",
-            "color4":"#494141",
-            "color5":"#8b8b8b",
-            "color6":"#ffffff",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#90dc75",
+            "color3": "#ffb477",
+            "color4": "#494141",
+            "color5": "#8b8b8b",
+            "color6": "#ffffff",
+            "color7": "#fafafa"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#dc7575",
-            "color3":"#9095ff",
-            "color4":"#454149",
-            "color5":"#8a8282",
-            "color6":"#ffffff",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#dc7575",
+            "color3": "#9095ff",
+            "color4": "#454149",
+            "color5": "#8a8282",
+            "color6": "#ffffff",
+            "color7": "#fafafa"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#67cead",
-            "color3":"#f9a0e7",
-            "color4":"#484149",
-            "color5":"#878986",
-            "color6":"#ffffff",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#67cead",
+            "color3": "#f9a0e7",
+            "color4": "#484149",
+            "color5": "#878986",
+            "color6": "#ffffff",
+            "color7": "#fafafa"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#d0d2c8",
-            "color3":"#65e9c6",
-            "color4":"#282828",
-            "color5":"#646464",
-            "color6":"#646464",
-            "color7":"#e8e9e4"
+            "color1": "#ffffff",
+            "color2": "#d0d2c8",
+            "color3": "#65e9c6",
+            "color4": "#282828",
+            "color5": "#646464",
+            "color6": "#646464",
+            "color7": "#e8e9e4"
         }
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg",
         "images/train-station.jpg"
     ],
     "fontSwatch": {
-       "title": "Source Sans Pro",
+        "title": "Source Sans Pro",
         "font1": {
             "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "25px",
@@ -109,7 +119,7 @@
             "color-hover": "@color-swatch3",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Source Sans Pro\", \"Lato\", Arial, sans-serif",
             "font-size": "14px",
